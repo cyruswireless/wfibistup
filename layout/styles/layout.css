@@ -54,6 +54,22 @@ File: Layout CSS
 --------------------------------------------------------------------------------------------------------------- */
 #pageintro{padding:180px 0;}
 
+.wfilogointro {
+	display: inline;
+	width: 48px;
+	height: 25px;†
+	padding-bottom: 5px;
+	margin-right: 15px;
+}
+
+.wfilogofooter {
+	display: inline;
+	width: 182px;
+	height: 80px;
+	padding-bottom: 5px;
+	margin-bottom: 15px;†
+}
+
 #pageintro article{display:block; max-width:75%;}
 #pageintro .heading{margin-bottom:20px; font-size:4rem;}
 #pageintro p:first-of-type{margin:0 0 20px 0; text-transform:uppercase; font-size:1.6rem; letter-spacing:5px;}
@@ -324,6 +340,8 @@ input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#AAAAAA; background-color:#01325D;}
 .row5, .row5 a{color:#AAAAAA; background-color:#012B50;}
+.row6, .row6 a{color:#FFFFFF; background-color:#071d49;}
+
 .coloured{color:#FFFFFF; background-color:#000000;}
 
 
